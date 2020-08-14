@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/thinkful-ei-rabbit/webpack-day-anthonyOdero/issues"
   },
-  "homepage": "https://github.com/thinkful-ei-rabbit/webpack-day-anthonyOdero#readme"
+  "homepage": "https://github.com/thinkful-ei-rabbit/webpack-day-anthonyOdero#readme",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
 }
