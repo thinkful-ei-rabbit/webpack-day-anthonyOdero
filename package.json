@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "webpack-dev-server --open", 
+    "start": "webpack-dev-server --open",
     "build": "webpack --mode production"
   },
   "repository": {
@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/thinkful-ei-rabbit/webpack-day-anthonyOdero#readme",
   "dependencies": {
+    "cuid": "^2.1.8",
     "jquery": "^3.5.1"
   },
   "devDependencies": {
